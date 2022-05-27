@@ -1,0 +1,14 @@
+{
+  "name": "3314assignment2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "KADpeer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sha1": "^1.1.1"
+  }
+}
